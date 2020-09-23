@@ -1,0 +1,24 @@
+.navbar {
+    overflow: hidden;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    }
+.navbar a {
+    float: left;
+    display: block;
+    color: blanchedalmond;
+    text-align: center;
+    padding: 20px 20px ;
+    font-size: large;
+}    
+.navbar a {
+    background:rgb(22, 20, 158);
+    color: black;
+}
+.img {
+    margin: auto;
+    height: 50%;
+    align-self: center;
+}
